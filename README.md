@@ -2,8 +2,10 @@
 
 A new Flutter project.
 
-![image](https://github.com/gisellekim/flutter-DigitalWallet/assets/69022097/2cb0a2bd-9f2d-4f76-bb0d-b024942bd7cf)
-![image](https://github.com/gisellekim/flutter-DigitalWallet/assets/69022097/887eb8fc-d6ca-4cca-89b0-9b41e97b1869)
+
+<img width="48%" alt="image" src="https://github.com/gisellekim/flutter-DigitalWallet/assets/69022097/2cb0a2bd-9f2d-4f76-bb0d-b024942bd7cf">
+<img width="48%" alt="image" src="https://github.com/gisellekim/flutter-DigitalWallet/assets/69022097/887eb8fc-d6ca-4cca-89b0-9b41e97b1869">
+
 
 
 ## Getting Started
